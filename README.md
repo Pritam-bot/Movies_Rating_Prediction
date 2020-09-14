@@ -15,4 +15,7 @@ I have used almost all types of alorithms or types for training to get best accu
 I have used Regression, Clustering and classification.I get the best score in Random Forest and Decision Tree Classifier.
 For better understanding i have made a table to display all accuracy.
 
+I have uploaded all the datset files. But if you want then you can use url which i am providing - 
+https://www.kaggle.com/sherinclaudia/movie-rating-prediction/data?select=users.dat
+
 Thanks.
